@@ -11,11 +11,11 @@
 
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
+## 🎓 학력사항 (Education)
 
-<div align="center">
-<h2>🎓 학력사항 (Education)</h2>
+<div align="left" style="margin:20px 0;">
 
 |  **기간** |  **학교명 (고교 이상)** |  **전공 (학위)** |  **평점 (/4.5)** |  **졸업 구분** |
 |:--:|:--:|:--:|:--:|:--:|
@@ -24,11 +24,11 @@
 
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
+## 📚 Skills Summary
 
-<div align="center">
-<h2>📚 Skills Summary</h2>
+<div align="left" style="margin:20px 0;">
 
 <table>
 <tr>
@@ -40,21 +40,20 @@
 | **데이터 시각화** | Tableau, ggplot2, matplotlib |
 | **분석 기법** | Classification, Regression, PSM, IPTW, EDA |
 | **도구 및 협업** | Git, GitHub, Jupyter, Colab, VSCode, Notion |
-| **관심 분야** | 데이터 분석, AI 모델링, 시각화 |
+| **관심 분야** | Data Analysis, AI Modeling, Visualization |
 
 </td>
 <td style="vertical-align:top; width:45%; text-align:center;">
 
-<h4>🏅 Tech Stack</h4>
-
+### 🏅 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000" alt="Python"/><br>
-  <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=r&logoColor=000000" alt="R"/><br>
-  <img src="https://img.shields.io/badge/SAS-FFFFFF?style=flat-square&logo=sas&logoColor=000000" alt="SAS"/><br>
-  <img src="https://img.shields.io/badge/SPSS-FFFFFF?style=flat-square&logo=ibm&logoColor=000000" alt="SPSS"/><br>
-  <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=000000" alt="Tableau"/><br>
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000" alt="Git"/><br>
-  <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=000000" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=r&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/SAS-FFFFFF?style=flat-square&logo=sas&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/SPSS-FFFFFF?style=flat-square&logo=ibm&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000"/><br>
+  <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=000000"/>
 </p>
 
 </td>
@@ -62,11 +61,11 @@
 </table>
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
+## 🌏 어학 능력 (Language Proficiency)
 
-<div align="center">
-<h2>🌏 어학 능력 (Language Proficiency)</h2>
+<div align="left" style="margin:20px 0;">
 
 | 🗣 **외국어명** | 🧾 **시험명** | 📅 **시험일자** | 📊 **점수** | 🏢 **발급 기관** |
 |:--:|:--:|:--:|:--:|:--:|
@@ -74,11 +73,11 @@
 
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
+## 🧾 자격 및 면허 (Certificates & Licenses)
 
-<div align="center">
-<h2>🧾 자격 및 면허 (Certificates & Licenses)</h2>
+<div align="left" style="margin:20px 0;">
 
 | 📅 **취득년월일** | 🪪 **자격증명** | 🏢 **발행처** |
 |:--:|:--:|:--:|
@@ -86,11 +85,11 @@
 
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
+## 🏆 수상내역 · 대외활동 및 기타 (Awards & Activities)
 
-<div align="center">
-<h2>🏆 수상내역 · 대외활동 및 기타 (Awards & Activities)</h2>
+<div align="left" style="margin:20px 0;">
 
 | 📅 **기 간** | 🏢 **기관 / 소속명** | 📝 **활동 내용** |
 |:--:|:--:|:--:|
@@ -102,8 +101,7 @@
 
 </div>
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
-
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
 ## 🧭 About Me
 
@@ -114,16 +112,13 @@
 데이터를 통해 사람의 행동과 선택을 더 정확히 이해하고, 그에 맞는 전략을 제시하려 합니다.  
 앞으로도 끊임없이 실험하고 배우며, **데이터로 비즈니스와 사회를 연결하는 분석가**로 성장하겠습니다.
 
-<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
-
-
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
 <div align="center">
 
 ### ✨ *“데이터로 세상을 디버깅하는 사람”*  
 _Data Analysis • AI Modeling • Visualization_
 
- Last Updated: **2025.11.10**
+Last Updated: **2025.11.10**
 
 </div>
-
