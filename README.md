@@ -104,6 +104,20 @@
 
 <hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
 
+
+## 🧭 About Me
+
+> “데이터로 문제를 정의하고, 실행 가능한 해답을 만드는 분석가를 꿈꿉니다.”
+
+저는 데이터를 단순히 ‘해석’하는 데서 그치지 않고, **실제 변화를 이끌 수 있는 인사이트**를 찾는 데 집중합니다.  
+분석의 목표는 숫자가 아니라 ‘의사결정’이라고 생각하기 때문에,  
+데이터를 통해 사람의 행동과 선택을 더 정확히 이해하고, 그에 맞는 전략을 제시하려 합니다.  
+앞으로도 끊임없이 실험하고 배우며, **데이터로 비즈니스와 사회를 연결하는 분석가**로 성장하겠습니다.
+
+<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+
+
+
 <div align="center">
 
 ### ✨ *“데이터로 세상을 디버깅하는 사람”*  
@@ -112,3 +126,4 @@ _Data Analysis • AI Modeling • Visualization_
  Last Updated: **2025.11.10**
 
 </div>
+
