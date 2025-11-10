@@ -25,6 +25,44 @@
 | 2023.03 ~ 재학중 | 단국대학교(죽전) | 정보통계학과 | 3.25 | 재학 |
 
 </div>
+<h2> 📚 Skills Summary</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="vertical-align:top; width:55%;">
+
+| 분야 | 상세 내용 |
+|:--:|:--|
+| **언어** | R, Python, SAS, SPSS |
+| **데이터 시각화** | Tableau, ggplot2, matplotlib |
+| **분석 기법** | Classification, Regression, PSM, IPTW, EDA |
+| **도구 및 협업** | Git, GitHub, Jupyter, Colab, VSCode, Notion |
+| **관심 분야** | 데이터 분석, AI 모델링, 시각화 |
+
+</td>
+<td style="vertical-align:top; width:45%; text-align:center;">
+
+<h4>🏅 Tech Stack</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000" alt="Python"/><br>
+  <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=r&logoColor=000000" alt="R"/><br>
+  <img src="https://img.shields.io/badge/SAS-FFFFFF?style=flat-square&logo=sas&logoColor=000000" alt="SAS"/><br>
+  <img src="https://img.shields.io/badge/SPSS-FFFFFF?style=flat-square&logo=ibm&logoColor=000000" alt="SPSS"/><br>
+  <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=000000" alt="Tableau"/><br>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000" alt="Git"/><br>
+  <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=000000" alt="Jupyter"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
 
 ## 🌏 어학 능력 (Language Proficiency)
 
