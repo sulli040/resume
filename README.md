@@ -13,10 +13,8 @@
 
 <hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
 
-<div align="center">
 
 <div align="center">
-
 <h2>🎓 학력사항 (Education)</h2>
 
 |  **기간** |  **학교명 (고교 이상)** |  **전공 (학위)** |  **평점 (/4.5)** |  **졸업 구분** |
@@ -25,9 +23,12 @@
 | 2023.03 ~ 재학중 | 단국대학교(죽전) | 정보통계학과 | 3.25 | 재학 |
 
 </div>
-<h2> 📚 Skills Summary</div>
+
+<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+
 
 <div align="center">
+<h2>📚 Skills Summary</h2>
 
 <table>
 <tr>
@@ -59,38 +60,46 @@
 </td>
 </tr>
 </table>
-
 </div>
-
-<br><hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
-
-## 🌏 어학 능력 (Language Proficiency)
-
-| 외국어명 | 시험명 | 시험일자 | 점수 | 발급 기관 |
-|:--:|:--:|:--:|:--:|:--:|
-| 영어 | 기관 토플(TOEFL ITP) | 2025.8.25.(월) 10:00 | 82 | YBM토익위원회 |
-
-## 🧾 자격 및 면허 (Certificates & Licenses)
-
-| 취득년월일 | 자격증명 | 발행처 |
-|:--:|:--:|:--:|
-| 2024.11.24 | 제 43회 데이터분석 준전문가(ADaP) | 데이터자격검정 |
 
 <hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
 
-<div align="center">
 
+<div align="center">
+<h2>🌏 어학 능력 (Language Proficiency)</h2>
+
+| 🗣 **외국어명** | 🧾 **시험명** | 📅 **시험일자** | 📊 **점수** | 🏢 **발급 기관** |
+|:--:|:--:|:--:|:--:|:--:|
+| 영어 | TOEFL ITP | 2025.08.25 | 82 | YBM 토익위원회 |
+
+</div>
+
+<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+
+
+<div align="center">
+<h2>🧾 자격 및 면허 (Certificates & Licenses)</h2>
+
+| 📅 **취득년월일** | 🪪 **자격증명** | 🏢 **발행처** |
+|:--:|:--:|:--:|
+| 2024.11.24 | 제43회 데이터분석 준전문가(ADsP) | 데이터자격검정 |
+
+</div>
+
+<hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
+
+
+<div align="center">
 <h2>🏆 수상내역 · 대외활동 및 기타 (Awards & Activities)</h2>
 
 | 📅 **기 간** | 🏢 **기관 / 소속명** | 📝 **활동 내용** |
 |:--:|:--:|:--:|
-| 2024.05 ~ 2024.07 | 안산시청 |  **청년 유입 분석 공모전** — 지하철역별 교통·치안·편의시설 데이터 기반 청년 친화도·발전잠재력 점수화 |
-| 2024.09 ~ 2024.12 | 단국대학교 |  **헬스케어 빅데이터 프로젝트** — ADHD 약물 효과 분석 및 인과추정(PSM·IPTW) 수행 |
-| 2024.10 ~ 2024.12 | 단국대학교 |  **비정형 데이터 분석 프로젝트** — Vision-Language 모델(LLaVA) 논문 분석 및 발표자료 제작 |
-| 2025.05 | 단국대학교 |  **알림어플(Reminder App) 개발 프로젝트** — 위치·날씨 기반 알림 어플 프로토타입 구현 |
-| 2025.11 | 탄천시민공원 |  **축제 봉사활동** — 현장 부스 운영 및 참가 인원 관리, 방문객 동선 효율화 지원 |
+| 2024.05 ~ 2024.07 | 안산시청 | **청년 유입 분석 공모전** — 지하철역별 교통·치안·편의시설 데이터 기반 청년 친화도·발전잠재력 점수화 |
+| 2024.09 ~ 2024.12 | 단국대학교 | **헬스케어 빅데이터 프로젝트** — ADHD 약물 효과 분석 및 인과추정(PSM·IPTW) 수행 |
+| 2024.10 ~ 2024.12 | 단국대학교 | **비정형 데이터 분석 프로젝트** — Vision-Language 모델(LLaVA) 논문 분석 및 발표자료 제작 |
+| 2025.05 | 단국대학교 | **알림어플(Reminder App) 개발 프로젝트** — 위치·날씨 기반 알림 어플 프로토타입 구현 |
+| 2025.11 | 탄천시민공원 | **축제 봉사활동** — 현장 부스 운영 및 참가 인원 관리, 방문객 동선 효율화 지원 |
 
 </div>
 
 <hr style="border:0; border-top:2px solid #eaecef; margin:40px 0;">
-
