@@ -1,5 +1,5 @@
-<!-- 🎯 GITHUB README RESUME -->
-<div align="center">
+<!--  GITHUB README RESUME -->
+<div align="left">
 
 <table>
 <tr>
@@ -83,7 +83,7 @@
 
 <div align="left" style="margin:20px 0;">
 
-| 🗣 **외국어명** | 🧾 **시험명** | 📅 **시험일자** | 📊 **점수** | 🏢 **발급 기관** |
+|  **외국어명** |  **시험명** |  **시험일자** |  **점수** |  **발급 기관** |
 |:--:|:--:|:--:|:--:|:--:|
 | 영어 | TOEFL ITP | 2025.08.25 | 82 | YBM 토익위원회 |
 
@@ -95,7 +95,7 @@
 
 <div align="left" style="margin:20px 0;">
 
-| 📅 **취득년월일** | 🪪 **자격증명** | 🏢 **발행처** |
+|  **취득년월일** |  **자격증명** |  **발행처** |
 |:--:|:--:|:--:|
 | 2024.11.24 | 제43회 데이터분석 준전문가(ADsP) | 데이터자격검정 |
 
@@ -107,7 +107,7 @@
 
 <div align="left" style="margin:20px 0;">
 
-| 📅 **기 간** | 🏢 **기관 / 소속명** | 📝 **활동 내용** |
+|  **기 간** |  **기관 / 소속명** |  **활동 내용** |
 |:--:|:--:|:--:|
 | 2024.05 ~ 2024.07 | 안산시청 | **청년 유입 분석 공모전** — 지하철역별 교통·치안·편의시설 데이터 기반 청년 친화도·발전잠재력 점수화 |
 | 2024.09 ~ 2024.12 | 단국대학교 | **헬스케어 빅데이터 프로젝트** — ADHD 약물 효과 분석 및 인과추정(PSM·IPTW) 수행 |
@@ -119,7 +119,7 @@
 
 <br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
-## 🧭 About Me
+## ✨ About Me
 
 > “데이터로 문제를 정의하고, 실행 가능한 해답을 만드는 분석가를 꿈꿉니다.”
 
@@ -130,9 +130,9 @@
 
 <br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
 
-<div align="center">
+<div align="left">
 
-### ✨ *“데이터로 세상을 디버깅하는 사람”*  
+###  *“데이터로 세상을 디버깅하는 사람”*  
 _Data Analysis • AI Modeling • Visualization_
 
 Last Updated: **2025.11.10**
