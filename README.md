@@ -150,6 +150,6 @@
 ###  *“데이터로 세상을 디버깅하는 사람”*  
 _Data Analysis • AI Modeling • Visualization_
 
-Last Updated: **2025.11.10**
+Last Updated: **2025.11.11**
 
 </div>
