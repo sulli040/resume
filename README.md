@@ -3,20 +3,23 @@
 
 <table>
 <tr>
-<td align="center" style="width:70%;">
+<!-- ✅ 왼쪽: 사진 -->
+<td align="center" style="width:30%;">
+  <img src="https://raw.githubusercontent.com/sulli040/resume/main/증명사진.jpg" 
+       alt="profile" width="150" style="border-radius:15px; box-shadow:0 0 10px #ddd;"/>
+</td>
+
+<!-- ✅ 오른쪽: 인적사항 -->
+<td align="left" style="width:70%; padding-left:30px;">
 
 # 💻 **이윤재**
  
-🎂 생년월일: 2004.02.14  
-📞 010-8760-7534 ｜ ✉️ [sulli040@naver.com](mailto:sulli040@naver.com)  
-🪖 병역사항: 해당 없음  
-🏠 경기도 용인시 수지구 죽전동  
-🌐 [GitHub Profile](https://github.com/sulli040) ｜ 🗂 [Portfolio Repository](https://github.com/sulli040/resume)
+🎂 **생년월일:** 2004.02.14  
+📞 **010-8760-7534** ｜ ✉️ [sulli040@naver.com](mailto:sulli040@naver.com)  
+🪖 **병역사항:** 해당 없음  
+🏠 **경기도 용인시 수지구 죽전동**  
+🌐 [**GitHub Profile**](https://github.com/sulli040) ｜ [**Portfolio Repository**](https://github.com/sulli040/resume)
 
-</td>
-<td align="center" style="width:30%;">
-  <img src="" 
-       alt="profile" width="150" style="border-radius:15px;"/>
 </td>
 </tr>
 </table>
@@ -24,6 +27,7 @@
 </div>
 
 <br><hr style="border:0; border-top:2px solid #eaecef; margin:60px 0;">
+
 
 ## 🎓 학력사항 (Education)
 
