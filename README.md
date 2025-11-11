@@ -1,6 +1,10 @@
 <!-- 🎯 GITHUB README RESUME -->
 <div align="center">
 
+<table>
+<tr>
+<td align="center" style="width:70%;">
+
 # 💻 **이윤재**
  
 🎂 생년월일: 2004.02.14  
@@ -8,6 +12,14 @@
 🪖 병역사항: 해당 없음  
 🏠 경기도 용인시 수지구 죽전동  
 🌐 [GitHub Profile](https://github.com/sulli040) ｜ 🗂 [Portfolio Repository](https://github.com/sulli040/resume)
+
+</td>
+<td align="center" style="width:30%;">
+  <img src="" 
+       alt="profile" width="150" style="border-radius:15px;"/>
+</td>
+</tr>
+</table>
 
 </div>
 
