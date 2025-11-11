@@ -64,14 +64,29 @@
 
 ### 🏅 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=r&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/SAS-FFFFFF?style=flat-square&logo=sas&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/SPSS-FFFFFF?style=flat-square&logo=ibm&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000"/><br>
-  <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=000000"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000"/>
+  </a><br>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=r&logoColor=000000"/>
+  </a><br>
+  <a href="https://www.sas.com/ko_kr/home.html" target="_blank">
+    <img src="https://img.shields.io/badge/SAS-FFFFFF?style=flat-square&logo=sas&logoColor=000000"/>
+  </a><br>
+  <a href="https://www.ibm.com/kr-ko/products/spss" target="_blank">
+    <img src="https://img.shields.io/badge/SPSS-FFFFFF?style=flat-square&logo=ibm&logoColor=000000"/>
+  </a><br>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=000000"/>
+  </a><br>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000"/>
+  </a><br>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=000000"/>
+  </a>
 </p>
+
 
 </td>
 </tr>
